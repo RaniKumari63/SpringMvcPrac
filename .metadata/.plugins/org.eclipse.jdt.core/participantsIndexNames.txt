@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvcpractise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1855770133.index
+\MvcEx1\src\main\resources
+C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvcpractise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1562453373.index
+\MvcStdentApp\src\main\resources
